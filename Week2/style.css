@@ -1,0 +1,13 @@
+#myImage {
+    display: none;
+    width: 300px;
+    height: auto;
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    font-weight: 800;
+    margin: 30px 0px;
+  }
